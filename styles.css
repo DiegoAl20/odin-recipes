@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    background-color: cornsilk;
+    font-family: system-ui, sans-serif;
+}
+
+h1 {
+    color: #A10505;
+    margin: 15px 20px;
+}
+
+h2 {
+    color: #B40432;
+    margin: 15px 20px;
+}
+
+li {
+    margin: .5rem;
+    max-width: 60%;
+}
+
+a {
+    font-family: system-ui, sans-serif;
+    text-decoration: underline;
+    color: #000;
+    font-weight: 400;
+}
+
+p {
+    margin: 1em 1em;
+    text-align: start;
+    max-width: 60%;
+}
+
+img {
+    margin: 0 50px;
+}
+
+#img-tacos {
+    object-fit: contain;
+    width: 600px;
+    margin: 0 0;
+}
+
+button {
+    background-color: #B2403B;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.flex {
+    padding: 25px 20px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.inicio {
+    color: #fff;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.img-index {
+    margin: 0 0 10px 50px;
+    width: 30%;
+}
